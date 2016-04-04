@@ -2,7 +2,7 @@
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/debug/debug.h"
+#include "ehal/debug/debug.h"
 
 #include <ctype.h>
 #include <stdio.h>

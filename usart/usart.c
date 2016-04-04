@@ -23,8 +23,8 @@
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/usart/usart.h"
-#include "lib_mcu_noarch/util/util.h"
+#include "ehal/usart/usart.h"
+#include "ehal/util/util.h"
 #include "lib/usart/usart_march.h"
 
 

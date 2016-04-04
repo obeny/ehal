@@ -28,7 +28,7 @@ extern "C" {
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/global.h"
+#include "ehal/global.h"
 #include "lib/adc/adc_common_march.h"
 #include "config.h"
 

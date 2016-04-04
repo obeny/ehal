@@ -32,7 +32,7 @@ extern "C" {
  ***************************************************************************/
 
 #include "config.h"
-#include "lib_mcu_noarch/global.h"
+#include "ehal/global.h"
 #include "lib/usart/usart_march.h"
 #include "lib_func_attr.h"
 

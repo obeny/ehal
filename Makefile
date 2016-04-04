@@ -133,7 +133,7 @@ info : arch
 
 swupload : $(TARGET).bin
 	@echo -e "Loading software to device..."
-	mono $(LIB_VARIANT)/lib_mcu_noarch/_tools/sw_uploader.exe $(SWUPLOAD_PORT) $(TARGET).bin -n $(SWUPLOAD_OPTS)
+	mono $(LIB_VARIANT)/ehal/_tools/sw_uploader.exe $(SWUPLOAD_PORT) $(TARGET).bin -n $(SWUPLOAD_OPTS)
 # distribution targets
 clean : clean_arch
 	rm -fr obj/* $(TARGET) $(TARGET).* *.tar.bz2 .dep

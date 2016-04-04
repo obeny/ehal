@@ -9,7 +9,7 @@ extern "C" {
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/global.h"
+#include "ehal/global.h"
 #include "lib/spi/spi_march.h"
 
 

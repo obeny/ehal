@@ -29,7 +29,7 @@
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/global.h"
+#include "ehal/global.h"
 #include "config.h"
 
 

@@ -23,8 +23,8 @@
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/chksum/chksum.h"
-#include "lib_mcu_noarch/global.h"
+#include "ehal/chksum/chksum.h"
+#include "ehal/global.h"
 
 
 /***************************************************************************

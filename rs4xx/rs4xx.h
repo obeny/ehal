@@ -24,8 +24,8 @@ extern "C" {
  *	INCLUDES
  ***************************************************************************/
 
-#include "lib_mcu_noarch/global.h"
-#include "lib_mcu_noarch/usart/usart.h"
+#include "ehal/global.h"
+#include "ehal/usart/usart.h"
 
 /***************************************************************************
  *	FUNCTIONS

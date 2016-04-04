@@ -4,10 +4,10 @@
 
 #include "config.h"
 
-#include "lib_mcu_noarch/nrf24l01/nrf24_comm.h"
-#include "lib_mcu_noarch/chksum/chksum.h"
-#include "lib_mcu_noarch/nrf24l01/nrf24l01.h"
-#include "lib_mcu_noarch/sync_timer/sync_timer.h"
+#include "ehal/nrf24l01/nrf24_comm.h"
+#include "ehal/chksum/chksum.h"
+#include "ehal/nrf24l01/nrf24l01.h"
+#include "ehal/sync_timer/sync_timer.h"
 
 #include <stdio.h>
 #include <string.h>

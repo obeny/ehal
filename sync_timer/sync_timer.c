@@ -24,8 +24,8 @@
  ***************************************************************************/
 
 #include "config.h"
-#include "lib_mcu_noarch/global.h"
-#include "lib_mcu_noarch/sync_timer/sync_timer.h"
+#include "ehal/global.h"
+#include "ehal/sync_timer/sync_timer.h"
 
 /***************************************************************************
  *	DEFINITIONS

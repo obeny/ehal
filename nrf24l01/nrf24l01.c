@@ -26,10 +26,10 @@
 
 #include "config.h"
 
-#include "lib_mcu_noarch/nrf24l01/nrf24l01.h"
-#include "lib_mcu_noarch/spi/spi.h"
-#include "lib_mcu_noarch/sync_timer/sync_timer.h"
-#include "lib_mcu_noarch/util/util.h"
+#include "ehal/nrf24l01/nrf24l01.h"
+#include "ehal/spi/spi.h"
+#include "ehal/sync_timer/sync_timer.h"
+#include "ehal/util/util.h"
 #include "lib/spi/spi_march.h"
 
 

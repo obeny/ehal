@@ -25,7 +25,7 @@
 
 #include "config.h"
 #include "lib/io.h"
-#include "lib_mcu_noarch/rs4xx/rs4xx.h"
+#include "ehal/rs4xx/rs4xx.h"
 #include "lib/usart/usart_march.h"
 
 
